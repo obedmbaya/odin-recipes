@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(237, 238, 229);
+}
+
+.burger {
+    background-color: rgb(132, 85, 85);
+    
+}
+
+.pizza {
+    background-color: rgb(233, 69, 15);
+}
+
+.salad {
+    background-color: green;
+}
+
+a {
+    color: white;
+}
