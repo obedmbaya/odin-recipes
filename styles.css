@@ -1,0 +1,21 @@
+body {
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    font-family: fantasy;
+    color: white;
+}
+
+button.pizza {
+    background-color: rgb(247, 168, 22);
+}
+
+button.lasagna {
+    background-color: rgb(202, 168, 84);
+}
+
+button.burger {
+    background-color: rgb(238, 111, 111);
+}
